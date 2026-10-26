@@ -20,11 +20,11 @@ argument-hint: "[дизайн | анимация | 3d | тексты | ауди�
 | анимация | `gsap-core`, `gsap-scrolltrigger`, `gsap-timeline`, `gsap-plugins`, `gsap-performance`, `find-animation-opportunities`, `animation-performance`, `emil-design-eng` |
 | 3d | `threejs-fundamentals`, `threejs-loaders`, `threejs-shaders`, `threejs-postprocessing`, `threejs-performance` |
 | тексты | `copywriting`, `copy-editing`, `stop-slop` |
-| аудит | `web-design-guidelines`, `page-cro`, `seo-audit`, `mobile-native`; независимую оценку — агент `site-auditor` |
+| аудит | `web-design-guidelines`, `page-cro`, `seo-audit`, `mobile-native` |
 
 ## Дальше, пока идёт работа над сайтом
 
 - Задача перешла на другой участок (была вёрстка, стала анимация) — загрузи его пакет до того, как писать код. Уже загруженные не грузи повторно.
 - Мобильная версия — `mobile-native`.
-- 3D: до того как строить тяжёлую сцену, скажи, что плавность зависит от железа посетителя, и проверь на слабом (урок TECHCONTROL 20.10.2026).
+- 3D: до того как строить тяжёлую сцену, скажи, что плавность зависит от железа посетителя, и проверь на слабом.
 - Результат проверяй сам — скриншоты на трёх ширинах, консоль браузера — и присылай доказательство.
