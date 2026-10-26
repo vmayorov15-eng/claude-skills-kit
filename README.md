@@ -7,7 +7,7 @@
 Нужны Claude Code и `jq` (`brew install jq`). Дальше в терминале:
 
 ```bash
-git clone <ссылка на этот репозиторий> ~/claude-kit && bash ~/claude-kit/install.sh
+git clone https://github.com/vmayorov15-eng/claude-kit-bitrix24 ~/claude-kit && bash ~/claude-kit/install.sh
 ```
 
 Потом заполни `~/.claude/about-me.md` (прайс, опыт, кейсы) и перезапусти Claude Code.
